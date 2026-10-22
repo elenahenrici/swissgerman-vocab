@@ -1,0 +1,332 @@
+{
+  "categories": [
+    {
+      "id": "greetings",
+      "name": "Greetings & Politeness"
+    },
+    {
+      "id": "food",
+      "name": "Food & Drinks"
+    },
+    {
+      "id": "transport",
+      "name": "Getting Around"
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping"
+    },
+    {
+      "id": "feelings",
+      "name": "Feelings & Reactions"
+    },
+    {
+      "id": "home",
+      "name": "Everyday Life & Home"
+    },
+    {
+      "id": "introductions",
+      "name": "Introducing Yourself"
+    }
+  ],
+  "words": [
+    {
+      "id": "w01",
+      "swissGerman": "Hoi",
+      "alternatives": [
+        "Sali",
+        "Hallo"
+      ],
+      "standardGerman": "Hallo",
+      "translation": "Hi",
+      "categoryId": "greetings"
+    },
+    {
+      "id": "w02",
+      "swissGerman": "Tschüss",
+      "alternatives": [
+        "Ciao",
+        "Adieu"
+      ],
+      "standardGerman": "Tschüss",
+      "translation": "Bye",
+      "categoryId": "greetings"
+    },
+    {
+      "id": "w03",
+      "swissGerman": "Merci",
+      "alternatives": [
+        "Danke vilmal"
+      ],
+      "standardGerman": "Danke",
+      "translation": "Thank you",
+      "categoryId": "greetings"
+    },
+    {
+      "id": "w04",
+      "swissGerman": "Gärn gscheh",
+      "alternatives": [],
+      "standardGerman": "Gern geschehen",
+      "translation": "You're welcome",
+      "categoryId": "greetings"
+    },
+    {
+      "id": "w05",
+      "swissGerman": "Exgüsi",
+      "alternatives": [
+        "Äxgüsi"
+      ],
+      "standardGerman": "Entschuldigung",
+      "translation": "Excuse me",
+      "categoryId": "greetings"
+    },
+    {
+      "id": "w06",
+      "swissGerman": "Zmorge",
+      "alternatives": [],
+      "standardGerman": "Frühstück",
+      "translation": "Breakfast",
+      "categoryId": "food"
+    },
+    {
+      "id": "w07",
+      "swissGerman": "Härdöpfel",
+      "alternatives": [
+        "Herdöpfel"
+      ],
+      "standardGerman": "Kartoffel",
+      "translation": "Potato",
+      "categoryId": "food"
+    },
+    {
+      "id": "w08",
+      "swissGerman": "Brötli",
+      "alternatives": [
+        "Weggli"
+      ],
+      "standardGerman": "Brötchen",
+      "translation": "Bread roll",
+      "categoryId": "food"
+    },
+    {
+      "id": "w09",
+      "swissGerman": "Proscht",
+      "alternatives": [],
+      "standardGerman": "Prost",
+      "translation": "Cheers",
+      "categoryId": "food"
+    },
+    {
+      "id": "w10",
+      "swissGerman": "Es isch fein",
+      "alternatives": [],
+      "standardGerman": "Es schmeckt gut",
+      "translation": "It tastes good",
+      "categoryId": "food"
+    },
+    {
+      "id": "w11",
+      "swissGerman": "Tram",
+      "alternatives": [],
+      "standardGerman": "Strassenbahn",
+      "translation": "Tram",
+      "categoryId": "transport"
+    },
+    {
+      "id": "w12",
+      "swissGerman": "Perron",
+      "alternatives": [],
+      "standardGerman": "Bahnsteig",
+      "translation": "Platform",
+      "categoryId": "transport"
+    },
+    {
+      "id": "w13",
+      "swissGerman": "Velo",
+      "alternatives": [],
+      "standardGerman": "Fahrrad",
+      "translation": "Bike",
+      "categoryId": "transport"
+    },
+    {
+      "id": "w14",
+      "swissGerman": "Wo isch de Bahnhof?",
+      "alternatives": [],
+      "standardGerman": "Wo ist der Bahnhof?",
+      "translation": "Where is the train station?",
+      "categoryId": "transport"
+    },
+    {
+      "id": "w15",
+      "swissGerman": "Ich stig uus",
+      "alternatives": [],
+      "standardGerman": "Ich steige aus",
+      "translation": "I'm getting off",
+      "categoryId": "transport"
+    },
+    {
+      "id": "w16",
+      "swissGerman": "Wie viel chostet das?",
+      "alternatives": [],
+      "standardGerman": "Wie viel kostet das?",
+      "translation": "How much is this?",
+      "categoryId": "shopping"
+    },
+    {
+      "id": "w17",
+      "swissGerman": "Quittig",
+      "alternatives": [
+        "Kassezettel"
+      ],
+      "standardGerman": "Kassenzettel",
+      "translation": "Receipt",
+      "categoryId": "shopping"
+    },
+    {
+      "id": "w18",
+      "swissGerman": "Sack",
+      "alternatives": [
+        "Säckli"
+      ],
+      "standardGerman": "Tüte",
+      "translation": "Bag",
+      "categoryId": "shopping"
+    },
+    {
+      "id": "w19",
+      "swissGerman": "tüür",
+      "alternatives": [],
+      "standardGerman": "teuer",
+      "translation": "Expensive",
+      "categoryId": "shopping"
+    },
+    {
+      "id": "w20",
+      "swissGerman": "Ich lueg nur",
+      "alternatives": [],
+      "standardGerman": "Ich schaue nur",
+      "translation": "I'm just looking",
+      "categoryId": "shopping"
+    },
+    {
+      "id": "w21",
+      "swissGerman": "Ich bi müed",
+      "alternatives": [],
+      "standardGerman": "Ich bin müde",
+      "translation": "I'm tired",
+      "categoryId": "feelings"
+    },
+    {
+      "id": "w22",
+      "swissGerman": "Kei Ahnig",
+      "alternatives": [],
+      "standardGerman": "Keine Ahnung",
+      "translation": "No idea",
+      "categoryId": "feelings"
+    },
+    {
+      "id": "w23",
+      "swissGerman": "Isch mir glich",
+      "alternatives": [
+        "Egal"
+      ],
+      "standardGerman": "Egal",
+      "translation": "Whatever / I don't mind",
+      "categoryId": "feelings"
+    },
+    {
+      "id": "w24",
+      "swissGerman": "Chuchi",
+      "alternatives": [],
+      "standardGerman": "Küche",
+      "translation": "Kitchen",
+      "categoryId": "home"
+    },
+    {
+      "id": "w25",
+      "swissGerman": "gmüetlich",
+      "alternatives": [],
+      "standardGerman": "gemütlich",
+      "translation": "Cozy",
+      "categoryId": "home"
+    },
+    {
+      "id": "w26",
+      "swissGerman": "Ich ha kei Luscht",
+      "alternatives": [
+        "Ich ha kei Bock"
+      ],
+      "standardGerman": "Ich habe keine Lust",
+      "translation": "I don't feel like it",
+      "categoryId": "home"
+    },
+    {
+      "id": "w27",
+      "swissGerman": "Bis spöter",
+      "alternatives": [],
+      "standardGerman": "Bis später",
+      "translation": "See you later",
+      "categoryId": "home"
+    },
+    {
+      "id": "w28",
+      "swissGerman": "Was machsch?",
+      "alternatives": [],
+      "standardGerman": "Was machst du?",
+      "translation": "What are you doing?",
+      "categoryId": "home"
+    },
+    {
+      "id": "w29",
+      "swissGerman": "Wie gahts?",
+      "alternatives": [
+        "Wie gahts dir?"
+      ],
+      "standardGerman": "Wie geht's?",
+      "translation": "How are you?",
+      "categoryId": "introductions"
+    },
+    {
+      "id": "w30",
+      "swissGerman": "Mir gahts guet",
+      "alternatives": [],
+      "standardGerman": "Mir geht's gut",
+      "translation": "I'm fine",
+      "categoryId": "introductions"
+    },
+    {
+      "id": "w31",
+      "swissGerman": "Ich heisse Elena",
+      "alternatives": [
+        "Ich bi d Elena"
+      ],
+      "standardGerman": "Ich heisse Elena",
+      "translation": "My name is Elena",
+      "categoryId": "introductions"
+    },
+    {
+      "id": "w32",
+      "swissGerman": "Vo wo chunsch du?",
+      "alternatives": [],
+      "standardGerman": "Woher kommst du?",
+      "translation": "Where are you from?",
+      "categoryId": "introductions"
+    },
+    {
+      "id": "w33",
+      "swissGerman": "Ich wohn in Züri",
+      "alternatives": [],
+      "standardGerman": "Ich wohne in Zürich",
+      "translation": "I live in Zurich",
+      "categoryId": "introductions"
+    },
+    {
+      "id": "w34",
+      "swissGerman": "Freut mi",
+      "alternatives": [],
+      "standardGerman": "Freut mich",
+      "translation": "Nice to meet you",
+      "categoryId": "introductions"
+    }
+  ]
+}
