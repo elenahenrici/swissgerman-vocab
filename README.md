@@ -27,4 +27,7 @@ Created in the Code Kitchen module at FHNW, HS26.
 |------|----------|----------|
 | 13.10.2026 | 25 min | Planning, set up repository and project structure |
 | 14.10.2026 | 10 min | Wrote README |
+| 21.10.2026 | 20 min | Brainstormed categories and word list, defined JSON structure |
+| 22.10.2026 | 10 min | Reviewed word list structure, replaced placeholder entries |
+| 26.10.2026 | 15 min | Added HTML skeleton, load and display word list |
 
