@@ -28,8 +28,3 @@ Created in the Code Kitchen module at FHNW, HS26.
 | 13.10.2026 | 25 min | Planning, set up repository and project structure |
 | 14.10.2026 | 10 min | Wrote README |
 
-## Use of AI
-
-I use Claude as a learning companion: for explanations of concepts and browser APIs, for planning, and for brainstorming the word list. The draft of this README was created with Claude and adapted by me.
-
-All code is written by me. The first draft of the Swiss German word list was created with Claude and then checked and corrected by me as a native speaker.
